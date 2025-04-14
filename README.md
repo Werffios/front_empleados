@@ -65,6 +65,8 @@ Documentación de la API: https://konecta.calendar.werffios.com/docs
 
 ### 1.4.  Repositorio de NominaKonecta
 
+[Repostiorio NominaKonecta](https://github.com/Werffios/NominaKonecta)
+
 Continuando con la solución del problema, se ha creado un repositorio para la nómina de Konecta
 el cual se distribuye en tres partes:
 
