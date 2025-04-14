@@ -314,3 +314,5 @@ Ejecución del backend
 Ejecución del frontend
 ![img_4.png](img_4.png)
 
+Token de autenticación
+![img_5.png](img_5.png)
